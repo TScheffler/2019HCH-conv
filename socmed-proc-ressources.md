@@ -6,9 +6,9 @@
 [Unix for Poets - useful unix commands](https://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf)
 
 
-##Raw Data Collection:
+## Raw Data Collection:
 
-###Twitter
+### Twitter
 * tweepy/twython/python-twitter etc.
 * [TAGS: collect with a Google spreadsheet](https://tags.hawksey.info/) (no programming)
 * [Twarc: collect conversations](https://github.com/DocNow/twarc)
@@ -28,11 +28,11 @@ Adaptable python scripts:
 
 
 
-##Visualization:
+## Visualization:
 [Treeverse](https://github.com/paulgb/Treeverse) - visualize Twitter conversation trees 
 
-##Preprocessing:
-###Language Identification: 
+## Preprocessing:
+### Language Identification: 
 [langID](https://github.com/saffsd/langid.py)
 
 ### Tokenization/POS-Tagging
@@ -49,7 +49,7 @@ German:
 * [SoMeWeTa](https://github.com/tsproisl/SoMeWeTa)  (POS tagging)
 * [German stop word list](https://github.com/TScheffler/TwitterCorpora/blob/master/twitter_stopwords_German.txt)  
 
-##Sentiment:
+## Sentiment:
 * [SentiViz](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/) (NCSU)
 * [OpinionFinder](http://mpqa.cs.pitt.edu/opinionfinder/) (Wiebe et al., 2005) 
 * [SentiStrength](http://sentistrength.wlv.ac.uk/) (Thelwall et al., 2010)

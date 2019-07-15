@@ -124,7 +124,7 @@ def make_discussions(tweet_dict):
     # with the thread having maximum number of reply-tweets going first
     discussion_threads.sort(key=lambda x: x.total, reverse = True)
 
-    return(discussion_threads)
+    return(discussion_threads, discussion)
 
 def print_discussions(discussion_threads):
 
@@ -158,6 +158,6 @@ def print_discussions(discussion_threads):
 # 
 # print(len(tweets))
 # 
-# discussion_threads = make_discussions(tweets)
+# discussion_threads, replies_dict = make_discussions(tweets)
 # print(len(discussion_threads))
 # print_discussions(discussion_threads)

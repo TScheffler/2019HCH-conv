@@ -55,6 +55,14 @@ German:
 * [SentiStrength](http://sentistrength.wlv.ac.uk/) (Thelwall et al., 2010)
 * [SoCal](https://github.com/sfu-discourse-lab/SO-CAL) (SFU, Taboada et al.)
 
+## Emoji:
+
+* [Sentiment of Emoji](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144296)
+* [MoJiSem](http://www.aclweb.org/anthology/P17-3022) Varying linguistic purposes of emoji in (Twitter) context (ACL Student Research Workshop 2017) 
+* [Emojitracker](http://emojitracker.com/)
+* [Emojipedia](https://emojipedia.org/)
+* [Sort lines based on emoji in them](https://github.com/TScheffler/TwitterCorpora/blob/master/get-emoji-tweets-fromtext.py)
+
 ## Other tools:
 * [Cornell conversational analysis toolkit](http://convokit.cornell.edu/) 
 * [Botometer](https://botometer.iuni.iu.edu/#!/)  (bot detection, but see recent discussion on whether this actually works/is a useful thing to do!)
